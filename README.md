@@ -21,8 +21,8 @@ That's result:
 - [tensorflow](https://www.tensorflow.org/) : `pip install tensorflow`
 - [matplotlib](https://matplotlib.org/) : `pip install matplotlib`
 - [streamlit](https://streamlit.io/): `pip install streamlit`
-- [PIL](https://he-arc.github.io/livre-python/pillow/index.html)`pip install PIL`
-- [OpenCV](https://opencv24-python-tutorials.readthedocs.io/en/latest/) `pip install opencv-python`
+- [PIL](https://he-arc.github.io/livre-python/pillow/index.html):`pip install PIL`
+- [OpenCV](https://opencv24-python-tutorials.readthedocs.io/en/latest/): `pip install opencv-python`
 
 ``
-streamlit run yourscript.py``
+streamlit run  StreamlitApp.py``
